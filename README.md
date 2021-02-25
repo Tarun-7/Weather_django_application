@@ -1,1 +1,3 @@
-Code for my tutorial here: https://youtu.be/v7xjdXWZafY
+## Weather Application
+
+Web application that gets the weather using Open Weather Map API and Django framework.
